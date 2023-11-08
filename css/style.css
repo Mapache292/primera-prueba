@@ -59,7 +59,7 @@ header {
 }
 
 .flex-container {
-    background-image: linear-gradient(90.9deg, rgba(172, 230, 246, 1) -0.5%, rgba(68, 100, 145, 1) 99.8%);
+    background-image: linear-gradient(90.9deg, rgba(172, 230, 246, 1) -0.5%, rgb(65, 223, 34) 99.8%);
     height: 100vh;
 
     display: flex;
