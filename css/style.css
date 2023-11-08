@@ -135,12 +135,12 @@ footer{
 }
 
 .adicional div p{
-    color: rgb(73, 118, 180);
+    color: rgb(139, 180, 73);
     font-weight: bolder;
 }
 
 .adicional div a, .data div a{
-    color: white;
+    color: rgb(122, 44, 44);
     text-decoration: none;
 }
 
